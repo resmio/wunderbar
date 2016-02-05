@@ -11,3 +11,10 @@ Nutritive and delicious links that might come handy eventually.
 
 ## UI Library  
 * [Optimizely's UI Library](https://css-tricks.com/optimizelys-ui-library-oui-2-of-2/) How they build and maintain their UI Library. Rich people also cry.
+
+## Javascript Tutorials and Advice    
+* [A guide on evaluating
+  packages](http://bytearcher.com/articles/evaluating-packages-1-check-community/)
+with links to tools that check package health.  
+* []
+
