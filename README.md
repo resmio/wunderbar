@@ -10,6 +10,7 @@ Nutritive and delicious links that might come handy eventually.
 * [Handling Props and Classnames in React](http://simonsmith.io/handling-props-and-classnames-in-react/) Interesting tricks by Simon Smith.  
 * [React Testing Cookbook](https://egghead.io/series/react-testing-cookbook) paid course at egghead, looks promising.  
 * [React Testing Demo](https://github.com/ruanyf/react-testing-demo) with examples on how to test react components.  
+* [Perfomance Engineering with React](http://benchling.engineering/performance-engineering-with-react/) In deep article, I save it for a rainy day.  
 
 
 ## UI Library  
@@ -22,4 +23,10 @@ with links to tools that check package health.
 * [Webpack Tutorial](https://github.com/AriaFallah/WebpackTutorial/tree/master/part1) Haven't done it but looks great.  
 
 ## Inspiration  
-* [Style Guide Inspirations](https://medium.com/muzli-design-inspiration/style-guide-inspirations-dfb77c4bb13b#.67nvwq6em)
+* [Style Guide Inspirations](https://medium.com/muzli-design-inspiration/style-guide-inspirations-dfb77c4bb13b#.67nvwq6em)  
+
+## Podcasts  
+* [Tentative](http://tentative.fm/) is a podcast about digital product design, hosted by thoughtbot designers.  
+* [5 minutes of Javascript](https://fivejs.codeschool.com/) The latest news about frameworks you don't know in a weekly 5 minutes podcast.  
+* [Ruby Rogues](https://devchat.tv/ruby-rogues/) Despite the name, this is an excellent podcast about general development.  
+* [Javascript Jabber](https://devchat.tv/js-jabber/) Be the person everybody hates on the next Frontend meetup you attend.  
