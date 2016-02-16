@@ -23,7 +23,6 @@ Nutritive and delicious links that might come handy eventually.
 * [A guide on evaluating
   packages](http://bytearcher.com/articles/evaluating-packages-1-check-community/)
 with links to tools that check package health.  
-* [Webpack Tutorial](https://github.com/AriaFallah/WebpackTutorial/tree/master/part1) Haven't done it but looks great.  
 
 ## Inspiration  
 * [Style Guide Inspirations](https://medium.com/muzli-design-inspiration/style-guide-inspirations-dfb77c4bb13b#.67nvwq6em)  
