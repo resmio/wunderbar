@@ -12,6 +12,9 @@ Nutritive and delicious links that might come handy eventually.
 * [React Testing Demo](https://github.com/ruanyf/react-testing-demo) with examples on how to test react components.  
 * [Perfomance Engineering with React](http://benchling.engineering/performance-engineering-with-react/) In deep article, I save it for a rainy day.  
 
+## Backbone  
+* [Backbone.js organizationial patterns](https://www.foraker.com/blog/backbone-js-organizational-patterns) Great article with an example about modularizing backbone apps  
+
 
 ## UI Library  
 * [Optimizely's UI Library](https://css-tricks.com/optimizelys-ui-library-oui-2-of-2/) How they build and maintain their UI Library. Rich people also cry.
@@ -20,7 +23,6 @@ Nutritive and delicious links that might come handy eventually.
 * [A guide on evaluating
   packages](http://bytearcher.com/articles/evaluating-packages-1-check-community/)
 with links to tools that check package health.  
-* [Webpack Tutorial](https://github.com/AriaFallah/WebpackTutorial/tree/master/part1) Haven't done it but looks great.  
 
 ## Inspiration  
 * [Style Guide Inspirations](https://medium.com/muzli-design-inspiration/style-guide-inspirations-dfb77c4bb13b#.67nvwq6em)  
@@ -30,3 +32,11 @@ with links to tools that check package health.
 * [5 minutes of Javascript](https://fivejs.codeschool.com/) The latest news about frameworks you don't know in a weekly 5 minutes podcast.  
 * [Ruby Rogues](https://devchat.tv/ruby-rogues/) Despite the name, this is an excellent podcast about general development.  
 * [Javascript Jabber](https://devchat.tv/js-jabber/) Be the person everybody hates on the next Frontend meetup you attend.  
+* [Hacking UI](https://hackingui.com/) A podcast about UI design
+
+## Build systems
+* [Why npm scripts](https://css-tricks.com/why-npm-scripts/) A comprehensive guide about using npm as a build system. with lots of examples.
+* [Webpack Tutorial](https://github.com/AriaFallah/WebpackTutorial) The ultimate webpack tutorial?
+
+## UI Design  
+* [Hack Design](https://hackdesign.org/) Complete UI design course divided in weekly lessons.  
