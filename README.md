@@ -13,7 +13,7 @@ Nutritive and delicious links that might come handy eventually.
 * [Perfomance Engineering with React](http://benchling.engineering/performance-engineering-with-react/) In deep article, I save it for a rainy day.  
 
 ## Backbone  
-* [Backbone.js organizationial patterns](https://www.foraker.com/blog/backbone-js-organizational-patterns) Great article with an example about modularizing backbone apps  
+* [Backbone.js organizationial patterns](https://www.foraker.com/blog/backbone-js-organizational-patterns) Great article with an example about modularizing backbone apps also check out [part 2](https://www.foraker.com/blog/backbone-js-organizational-patterns-part-ii)   
 
 
 ## UI Library  
