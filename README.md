@@ -40,3 +40,10 @@ with links to tools that check package health.
 
 ## UI Design  
 * [Hack Design](https://hackdesign.org/) Complete UI design course divided in weekly lessons.  
+
+
+## HTTP2  
+* [Http2 Best practices](https://blog.newrelic.com/2016/02/09/http2-best-practices-web-performance/) The shape of things to come, check also [part 2](https://blog.newrelic.com/2016/02/17/http2-production/)
+
+## Email Templating  
+* [Responsive emails without media queries](https://medium.freecodecamp.com/the-fab-four-technique-to-create-responsive-emails-without-media-queries-baf11fdfa848#.1nzrzt15x)
