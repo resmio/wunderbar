@@ -41,6 +41,8 @@ with links to tools that check package health.
 ## UI Design  
 * [Hack Design](https://hackdesign.org/) Complete UI design course divided in weekly lessons.  
 
+## Performance  
+* [12 Steps to a faster web app](https://auth0.com/blog/2016/02/22/12-steps-to-a-faster-web-app/) With hip things like http/2 or service workers.  
 
 ## HTTP2  
 * [Http2 Best practices](https://blog.newrelic.com/2016/02/09/http2-best-practices-web-performance/) The shape of things to come, check also [part 2](https://blog.newrelic.com/2016/02/17/http2-production/)
