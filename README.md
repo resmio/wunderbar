@@ -17,7 +17,10 @@ Nutritive and delicious links that might come handy eventually.
 
 
 ## UI Library  
-* [Optimizely's UI Library](https://css-tricks.com/optimizelys-ui-library-oui-2-of-2/) How they build and maintain their UI Library. Rich people also cry.
+To keep an eye on how they organize the UI Layer
+* [Optimizely's UI Library](https://css-tricks.com/optimizelys-ui-library-oui-2-of-2/) How they build and maintain their UI Library. Rich people also cry.  
+* [Rizzo](https://github.com/lonelyplanet/rizzo) the lonely planet UI layer.
+
 
 ## Javascript Tutorials and Advice    
 * [A guide on evaluating
@@ -36,7 +39,9 @@ with links to tools that check package health.
 
 ## Build systems
 * [Why npm scripts](https://css-tricks.com/why-npm-scripts/) A comprehensive guide about using npm as a build system. with lots of examples.
-* [Webpack Tutorial](https://github.com/AriaFallah/WebpackTutorial) The ultimate webpack tutorial?
+* [Webpack Tutorial](https://github.com/AriaFallah/WebpackTutorial) The ultimate webpack tutorial?  
+* [Code splitting with webpack](http://jonathancreamer.com/webpack-code-splitting-with-es6-and-babel-6/)
+* [Advanced code splitting with webpack](http://jonathancreamer.com/advanced-webpack-part-2-code-splitting/) 
 
 ## UI Design  
 * [Hack Design](https://hackdesign.org/) Complete UI design course divided in weekly lessons.  
@@ -49,3 +54,6 @@ with links to tools that check package health.
 
 ## Email Templating  
 * [Responsive emails without media queries](https://medium.freecodecamp.com/the-fab-four-technique-to-create-responsive-emails-without-media-queries-baf11fdfa848#.1nzrzt15x)
+
+## Developer philosophy  
+* [Lonely Planet Development Principles](http://rizzo.lonelyplanet.com/documentation/general/development-principles) Short and to the point, mainly for the UI library.  
