@@ -4,6 +4,7 @@ Nutritive and delicious links that might come handy eventually.
 ## Tools  
 * [Hookbin](https://hookbin.com/) is a tool to help debug HTTP requests, there's a tutorial [here](https://css-tricks.com/hookbin-capture-inspect-http-requests/).
 * [Bulma](A modern CSS framework based on Flexbox) A modern CSS framework based on Flexbox.  
+* [Awesome Serverless](https://github.com/anaibol/awesome-serverless) A curated list of awesome services, solutions and resources for serverless / nobackend applications.  
 
 ## React
 * [9 things every reactjs beginner should know](https://camjackson.net/post/9-things-every-reactjs-beginner-should-know). Title says it all, useful advice. Also good to check the [hacker news discussion](https://news.ycombinator.com/item?id=10962784)    
@@ -26,6 +27,7 @@ To keep an eye on how they organize the UI Layer
 * [A guide on evaluating
   packages](http://bytearcher.com/articles/evaluating-packages-1-check-community/)
 with links to tools that check package health.  
+* [ES6 Destructure assignment](http://krasimirtsonev.com/blog/article/constructive-destructuring-es6-assignment) Clear and concise explanation.  
 
 ## Inspiration  
 * [Style Guide Inspirations](https://medium.com/muzli-design-inspiration/style-guide-inspirations-dfb77c4bb13b#.67nvwq6em)  
@@ -41,7 +43,7 @@ with links to tools that check package health.
 * [Why npm scripts](https://css-tricks.com/why-npm-scripts/) A comprehensive guide about using npm as a build system. with lots of examples.
 * [Webpack Tutorial](https://github.com/AriaFallah/WebpackTutorial) The ultimate webpack tutorial?  
 * [Code splitting with webpack](http://jonathancreamer.com/webpack-code-splitting-with-es6-and-babel-6/)
-* [Advanced code splitting with webpack](http://jonathancreamer.com/advanced-webpack-part-2-code-splitting/) 
+* [Advanced code splitting with webpack](http://jonathancreamer.com/advanced-webpack-part-2-code-splitting/)
 
 ## UI Design  
 * [Hack Design](https://hackdesign.org/) Complete UI design course divided in weekly lessons.  
