@@ -3,7 +3,7 @@ Nutritive and delicious links that might come handy eventually.
 
 ## Tools  
 * [Hookbin](https://hookbin.com/) is a tool to help debug HTTP requests, there's a tutorial [here](https://css-tricks.com/hookbin-capture-inspect-http-requests/).
-* [Bulma](A modern CSS framework based on Flexbox) A modern CSS framework based on Flexbox.  
+* [Bulma](http://bulma.io/) A modern CSS framework based on Flexbox.  
 * [Awesome Serverless](https://github.com/anaibol/awesome-serverless) A curated list of awesome services, solutions and resources for serverless / nobackend applications.  
 
 ## React
