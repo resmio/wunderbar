@@ -13,6 +13,9 @@ Nutritive and delicious links that might come handy eventually.
 * [React Testing Demo](https://github.com/ruanyf/react-testing-demo) with examples on how to test react components.  
 * [Perfomance Engineering with React](http://benchling.engineering/performance-engineering-with-react/) In deep article, I save it for a rainy day.  
 
+## Redux  
+* [Organizing a Redux Application](http://jaysoo.ca/2016/02/28/organizing-redux-application/) Some good tips.  
+
 ## Backbone  
 * [Backbone.js organizationial patterns](https://www.foraker.com/blog/backbone-js-organizational-patterns) Great article with an example about modularizing backbone apps also check out [part 2](https://www.foraker.com/blog/backbone-js-organizational-patterns-part-ii)   
 
