@@ -22,6 +22,7 @@ Nutritive and delicious links that might come handy eventually.
 
 ## UI Library  
 To keep an eye on how they organize the UI Layer
+* [Creating React Npm packages](http://julian.io/creating-react-npm-packages-with-es2015/) How to do it right.  
 * [Optimizely's UI Library](https://css-tricks.com/optimizelys-ui-library-oui-2-of-2/) How they build and maintain their UI Library. Rich people also cry.  
 * [Rizzo](https://github.com/lonelyplanet/rizzo) the lonely planet UI layer.
 
