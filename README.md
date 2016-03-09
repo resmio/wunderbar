@@ -45,12 +45,16 @@ with links to tools that check package health.
 
 ## Build systems
 * [Why npm scripts](https://css-tricks.com/why-npm-scripts/) A comprehensive guide about using npm as a build system. with lots of examples.
+* [State of the art Javascript in 2016](https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b#.aojzn2qwt) At least in the first quarter of 2016 :)  
+
+## Module Bundlers
 * [Webpack Tutorial](https://github.com/AriaFallah/WebpackTutorial) The ultimate webpack tutorial?  
 * [Code splitting with webpack](http://jonathancreamer.com/webpack-code-splitting-with-es6-and-babel-6/)
 * [Advanced code splitting with webpack](http://jonathancreamer.com/advanced-webpack-part-2-code-splitting/)
 * [Welcome to the future of application delivery](https://medium.com/@ryanflorence/welcome-to-future-of-web-application-delivery-9750b7564d9f#.udeq8q7jo) Let webpack split your bundles, and react rendering on the server.  
 * [How to split your apps by routes with Webpack](https://medium.com/@somebody32/how-to-split-your-apps-by-routes-with-webpack-36b7a8a6231#.h0je6uawf) Excellent how to.  
-* [From require to webpack: the how](https://gist.github.com/xjamundx/b1c800e9282e16a6a18e) How some guy did it.  
+* [From require to webpack: the how](https://gist.github.com/xjamundx/b1c800e9282e16a6a18e) How some guy did it.
+* [Modularizing client side dependencies with jspm ](http://blog.scottlogic.com/2016/03/03/modularizing-client-side-dependencies-with-jspm.html) Is webpack already dead?
 
 ## UI Design  
 * [Hack Design](https://hackdesign.org/) Complete UI design course divided in weekly lessons.  
