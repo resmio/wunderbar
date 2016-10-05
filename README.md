@@ -71,4 +71,8 @@ with links to tools that check package health.
 * [Responsive emails without media queries](https://medium.freecodecamp.com/the-fab-four-technique-to-create-responsive-emails-without-media-queries-baf11fdfa848#.1nzrzt15x)
 
 ## Developer philosophy  
-* [Lonely Planet Development Principles](http://rizzo.lonelyplanet.com/documentation/general/development-principles) Short and to the point, mainly for the UI library.  
+* [Lonely Planet Development Principles](http://rizzo.lonelyplanet.com/documentation/general/development-principles) Short and to the point, mainly for the UI library. 
+
+## Databases w/ Django
+* [Django migrations without downtimes](http://pankrat.github.io/2015/django-migrations-without-downtimes/) Good intro into safer DB migrations (starting with Django 1.7, some Django 1.10 features missing)
+* [Understanding Postgres Performance](http://www.craigkerstiens.com/2012/10/01/understanding-postgres-performance/) [More on Postgres Performance](http://www.craigkerstiens.com/2013/01/10/more-on-postgres-performance/) Two links on understanding postgres performance basics
